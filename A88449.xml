@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common-Councell made the eleventh day of September, in the yeare of our Lord 1655. For the better avoiding and prevention of annoyances within the city of London, and liberties of the same.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88449</idno>
+            <idno type="STC">Wing L2852G</idno>
+            <idno type="STC">Thomason E856_4</idno>
+            <idno type="EEBO-CITATION">99865729</idno>
+            <idno type="PROQUEST">99865729</idno>
+            <idno type="VID">168339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E856[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common-Councell made the eleventh day of September, in the yeare of our Lord 1655. For the better avoiding and prevention of annoyances within the city of London, and liberties of the same.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 5-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168339:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <p>AN ACT OF Common-Councell <hi>MADE</hi> The Eleventh day of <hi>September,</hi> in the yeare of our Lord 1655.</p>
+            <p>For the better avoiding and prevention of Annoyances within the City of <hi>London,</hi> and Liberties of the ſame.</p>
+            <figure>
+               <figDesc>blazon of the City of London</figDesc>
+            </figure>
+            <p>
+               <add>Octob: 23</add> Printed by <hi>James Fleſher,</hi> Printer to the Honourable City of <hi>London,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168339:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <pb n="5" facs="tcp:168339:2"/>
+            <!-- PDF PAGE 48 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>Tacke</hi> Mayor.</signed>
+            </opener>
+            <head>A Common Councell holden in the Chamber of the <hi>Guild-hall</hi> of the City of <hi>London</hi> the eleventh day of <hi>September</hi> in the yeare of our Lord 1655.</head>
+            <head type="sub">An Act of Common-Councell for the better avoiding and prevention of Annoyances within the City of LONDON, and Liberties of the ſame, and for the preſervation of the ſame from all manner of Filth and filthy Stenches and unwholeſome Smells.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it is found by daily experience, That notwithſtanding many good Lawes, Orders, and Ordinances heretofore made for amoving and preventing of annoyan<g ref="char:EOLhyphen"/>ces and abuſes by Duſt, Dirt, and Soile, Filth, noyſome Stenches and Smells within the Streets, Lanes, and other places of this City and Liberties thereof; yet through the great unskilfulneſſe, ignorance, and negli<g ref="char:EOLhyphen"/>gence
+<pb n="6" facs="tcp:168339:3"/>
+               <!-- PDF PAGE 49 -->of the Officers called Scavingers, and their Subſti<g ref="char:EOLhyphen"/>tutes, principally occaſioned by the yearely renewing and change of the perſons, and the many particularities and diviſions of them and their powers and authorities re<g ref="char:EOLhyphen"/>ſtrained and limited into, and unto every Pariſh and Pre<g ref="char:EOLhyphen"/>cinct; the Streets, Lanes, and Alleyes of the ſaid Citie, and Liberties thereof, are continually much peſtered and made extreme offenſive to the Inhabitants and Paſſen<g ref="char:EOLhyphen"/>gers, with aſhes, duſt, dirt, rubbiſh and filth, and with noyſome and unwholſome ſmels, the Common Sewers and paſſages for Water are choaked up, and the River of Thames made daily leſſe Navigable by the Seacole-Aſhes and other Soile waſhed out of the Streets. For the pre<g ref="char:EOLhyphen"/>vention and hinderance of all which annoyances, and pre<g ref="char:EOLhyphen"/>ſervation of the ſaid Citie and Liberties thereof, in all poſſible cleanneſſe and wholſomneſſe, an expedient and fit means hath been contrived and propounded by <hi>John Lanyon</hi> Eſquire, which having been throughly and duely conſidered of, and judged moſt advantagious, and con<g ref="char:EOLhyphen"/>ducing to that end, is allowed and approved of: And the ſaid <hi>John Lanyon</hi> hath undertaken the execution and per<g ref="char:EOLhyphen"/>formance thereof. For the better effecting whereof, <hi>Be it Enacted</hi> by this Common Councell, That the parti<g ref="char:EOLhyphen"/>culars enſuing be hereafter duely kept and obſerved by all and every perſon and perſons inhabiting within this City and Liberties thereof, or reſorting thereunto re<g ref="char:EOLhyphen"/>ſpectively, as they and every of them tender the Honour and Welfare of this City, and the Government there of, <hi>viz.</hi>
+            </p>
+            <p>That every Street, Lane, Market-place, publique Wharfe, Key, Court, open and publique Yard, way
+<pb n="7" facs="tcp:168339:3"/>
+               <!-- PDF PAGE 49 -->and paſſage within the ſaid City and Liberties thereof, ſhall from time to time, and at all times hereafter be main<g ref="char:EOLhyphen"/>tained and kept by every particular Inhabitant or Owner reſpectively, according to the extent, length, and lati<g ref="char:EOLhyphen"/>tude of the houſe, building, or ground of every particular Inhabitant or owner toward the reſpective Streets, Lanes, Alleys, publique Wharfs, Keyes, Courts, open and pub<g ref="char:EOLhyphen"/>lique Yards, wayes and paſſages aforeſaid, with meet, con<g ref="char:EOLhyphen"/>venient, ſufficient, and due proportioned pavements and currents for water to paſſe; And that no Seacole-aſhes or other matter but gravell only be uſed by any Pavier or other, for paving, or amending of pavements in and for the Foundation thereof. And that no perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever now or hereafter inhabiting or reſiding within this City or the Liberties thereof, by themſelves or any of their Family, nor any other by their allow<g ref="char:EOLhyphen"/>ance, commandement, meanes or ſufferance, after the five and twentieth day of <hi>December,</hi> which ſhall be in the yeare of our Lord God, One thouſand ſix hundred fifty and five, either in the night or day time ſhall caſt, lay, or leave, or ſuffer to be caſt, laid, or leſt, or permit to remaine before his, her, or their owne doores, walls, or houſes in any Streets, Lanes, Alleys, common Courts, or Court-yards within this City and Liberties thereof: Nor ſhall any perſon or perſons whatſoever, caſt, lay, or leave in any of the ſaid Streets, Lanes, Al<g ref="char:EOLhyphen"/>leys, common Courts, or Court-yards, any Seacole-aſhes, Oyſter-ſhells, bones, horns, tops of Turneps or Carrets, the ſhells or husks of any Peas or Beanes, nor any dead Dogs or Cats, offall of Beaſts, nor any other ca<g ref="char:EOLhyphen"/>rion or putrid matter or thing, nor any Ordure or Ex<g ref="char:EOLhyphen"/>crements of Mankind or Beaſt, nor any manner of Rub<g ref="char:EOLhyphen"/>biſh,
+<pb n="8" facs="tcp:168339:4"/>
+               <!-- PDF PAGE 50 -->Duſt, Dirt, Soile, Filth, nor any other filthy or noy<g ref="char:EOLhyphen"/>ſome thing whatſoever; Nor ſhall make, temper, lay, caſt, or throw any Lime, Mortar, Clay, or Loame; nor lay, throw, place or leave any Bricks, Stones, Earth, pie<g ref="char:EOLhyphen"/>ces of Timber, or Wood, nor breake, nor beate downe any walls of brick or plaiſter in the Streets, Lanes, Alleys, common Courts, or Court-yards aforeſaid, for the building or repayring of any Houſe or Houſes, Edifice or Structure, or for any other uſe or purpoſe whatſoever, otherwiſe then within a Whord or Incloſure ſeparated from the common and open way according to the ancient and accuſtomed manner; Nor ſhall ſcatter, ſpill, nor ſuffer to be ſcattered or ſpilt in any the Streets, Lanes, Alleyes, publique Wharfes, Keyes, Courts, and paſſages aforeſaid any manner of Dung, Soap aſhes, Earth or Rubbiſh; nor any Straw, Hay, Weeds, or other matter or thing uſed for packing or ſtuffing of any kind or ſort of Wares, Merchandizes, or Victuals; Nor ſhall unlaw<g ref="char:EOLhyphen"/>fully burn, or expoſe to be burned any Wood, Straw, Hay, or other combuſtible matter in the Streets and places aforeſaid, within this City and Liberties aforeſaid. <hi>Pro<g ref="char:EOLhyphen"/>vided</hi> alwayes that this Act, or any thing herein con<g ref="char:EOLhyphen"/>tained ſhall not extend, or be conſtrued to extend to the ſcattering or ſpilling of any Hay, Straw, Stubble, Brakes, Hearbs, Leaves, or other things within the compaſſe or precinct of any the publique Market-places of this Citie and Liberties thereof by the people reſorting thereunto, for buying or ſelling there, occaſioned by the unloading, unpacking, or opening, or loading, or packing up of any manner of Goods, Wares, Merchandizes, or Victuals which ſhall be brought to the ſame Market-places there to be ſold, or which ſhall be there bought: Nor to the
+<pb n="9" facs="tcp:168339:4"/>
+               <!-- PDF PAGE 50 -->ſcattering or ſpilling of any ſuch Hay, Straw, Stubble, Brakes, Weeds, Hearbs, Leaves, or other things in any Streets or publique places of the ſaid Citie or Liberties thereof, occaſioned by the unloading or unpacking, or loading or packing up of any Goods, Wares or Merchan<g ref="char:EOLhyphen"/>dizes, which ſhall be brought into, or carried from any Warehouſe, Shops, or Inne within the ſaid Citie or Liberties aforeſaid. <hi>Provided</hi> nevertheleſſe, and be it Enacted, That the reſpective Shop-keepers, Warehouſe-keepers, and Inne-keepers, of the Shops, Warehouſes, and Innes aforeſaid, doe immediately ſweep, and gather up, or cauſe to be immediately ſwept and gathered up into meet Veſſels all ſuch ſcatterings and ſpillings of Hay, Straw, Weeds, or other things made, or cauſed to be made by his, her, or their particular occaſions, and ſo keep the Streets, as thence no Dirt, Soile, or annoyance ariſe unto the adjacent parts and places, the ſame veſſels to be emptied into the ſoile Carts.</p>
+            <p>
+               <hi>And be it further Enacted</hi> for the purpoſes afore<g ref="char:EOLhyphen"/>ſaid, That no perſon or perſons ſhall hoop, waſh, or cleanſe any Pipes, Barrels, or other Casksor Veſſels, nor waſh, ſcowr, or rince any Cloth or other things in any the Streets, Lanes, or open paſſages aforeſaid: Nor ſhall any Coachman, Carman, Drayman, Carter, or other perſon, feed or cauſe to be fed (except out of the hand or basket without ſcattering) any Horſes or Oxen, or other Beaſts or Cattell with Hay, Straw, Graines, or other things: Nor ſift any aſhes, nor keep, or cauſe to be kept or fed any Pigs or Swine, Ducks, Geeſe. Cocks, Hens, Chick<g ref="char:EOLhyphen"/>ens, Turkies, or any other Fowle, or Poultry in the Streets or places aforeſaid.</p>
+            <p>
+               <pb n="10" facs="tcp:168339:5"/>
+               <!-- PDF PAGE 51 -->
+               <hi>And be it further Enacted,</hi> That every Inhabi<g ref="char:EOLhyphen"/>tant within every the Streets, Lanes, Courts, Alleys, open wayes and paſſages within the ſaid City and Liberties thereof, ſhall daily every morning by eight of the clock in the morning from the 29<hi rend="sup">th.</hi> day of <hi>September,</hi> till the five and twentieth day of <hi>March,</hi> and by ſeven of the clock in the morning, from the five and twentieth day of <hi>March,</hi> till the nine and twentieth day of <hi>September,</hi> cauſe and procure his, her, and their reſpective pavement to be duely and cleanly ſwept, and the Duſt, Dirt; and Soile ariſing thereupon to be laid together in ſome convenient place ready for the Soile-cart to take away: And ſhall likewiſe in like manner every morning cauſe and procure all the Sea-cole aſhes, Dirt, Duſt, and Filth daily ariſing, and made within his, her, and their reſpective houſes and habitations (all manner of Rubbiſh onely excepted) to be daily brought forth in meet Veſſells to the door, to be there ready to be taken away by the reſpective perſon or perſons attending or driving the Soile-cart upon his or their call, or giving notice of coming therewith.</p>
+            <p>
+               <hi>And be it further Enacted,</hi> That the preſent rates, taxes, and aſſeſments for Scavingers and Rakers duties be hereafter duly and continually rated, taxed, aſſeſſed, rayſed and levied by the Pariſhioners and Inhabitants of every Pariſh and Precinct within this City and Liberties thereof according to the ancient cuſtome and uſage of this Citie: And all new Meſſuages, Tenements, and Houſes within the limits aforeſaid, ſhall be likewiſe rated, taxed and aſſeſſed proportionably with others: And that as well the aſſeſments for the ſame, as for any other charges con<g ref="char:EOLhyphen"/>cerning the cleanſing or amending the Streets or Currents
+<pb n="11" facs="tcp:168339:5"/>
+               <!-- PDF PAGE 51 -->wherein many Inhabitants are joyntly concerned ſhall be made: And the Defaulters proceeded againſt according to Law, and the ancient uſage, cuſtome, and Ordinances of this City, and for the due and carefull proſecution and execution of all and ſingular the before mentioned premiſſes.</p>
+            <p>
+               <hi>It is Enacted</hi> by this Common Councel, That the ſayd <hi>John Lanyon</hi> ſhall be, and is hereby conſtituted and appointed Surveyer Generall of the Streets, and ſhall from time to time take and have the view and ſurvey of the ſeverall Streets, Lanes, Alleys, and common paſſages and places aforeſaid, to finde out and diſcover every or any offence or abuſe committed, omitted, done or ſuffered in any of the aforementioned particulars, or otherwiſe to the Nuſance of the Inhabitants of this City and Liberties thereof: And alſo to view and peruſe the ſeverall preſentments made yearely of the Wardmote In<g ref="char:EOLhyphen"/>queſt, which (or the copies thereof) are for that purpoſe to be delivered him: And thereupon after fourteen dayes notice to the perſons concerned, and the not removing or reforming the offence or Nuſance within the time aforeſaid, cauſe a ſpeedy and ſtrict proſecution to be had and made againſt all ſuch Offenders by information, preſentment, or otherwiſe according to Law, or to the Acts, Orders, Cuſtomes and Uſages of this City, To the end ſuch perſons may have ſuch Fines impoſed upon them, or receive ſuch puniſhment as their fauits ſhall deſerve, and as in juſtice may be inflicted upon them.</p>
+            <p>
+               <hi>And it is hereby further Enacted,</hi> by this Com<g ref="char:EOLhyphen"/>mon Councell, That the ſaid <hi>John Lanyon</hi> and his
+<pb n="12" facs="tcp:168339:6"/>
+               <!-- PDF PAGE 52 -->Aſſignes ſhall have ſole, full, and abſolute: power and au<g ref="char:EOLhyphen"/>thority daily and every day (except Sabbath dayes and ſuch other dayes as ſhall be prohibited, and forbidden by publique authority) to take cart, and carry away in ſhut, cloſe, and covered Carts to be brought into, and paſſe through every the Streets and Places aforeſaid paſſable, and to the Entries, Doors and Gates of the places afore<g ref="char:EOLhyphen"/>ſaid not paſſable, from and after the five and twentieth day of <hi>December</hi> now next coming, for and during the full time and ſpace of twenty and one yeares, from thence next enſuing, and fully to be compleat and ended, at meet and convenient time and times in the day time, all and all manner of Seacole-aſhes, Duſt, Dirt, Soile and Filth that ſhall be ſo ſwept up and laid together without doors, or made and brought forth from within doors as aforeſaid, or found in the Streets, and likewiſe that ſhall happen at the coming and paſſage of the ſaid Carts to be found lying in the Streets, Lanes, and places aforeſaid, whereby the Streets and places aforeſaid may be preſerved and kept ſweet and clean. For the better effecting where<g ref="char:EOLhyphen"/>of, and removing all cauſes and colours of excuſe</p>
+            <p>
+               <hi>It is Enacted</hi> by, and with the conſent of the ſaid <hi>John Lanyon,</hi> That he the ſaid <hi>John Lanyon</hi> or his Aſſigns ſhall cauſe and procure a loud Clapper alwayes to attend every ſuch Cart, and to be ſounded and make diſtinct and loud noyſe at the coming and approach thereof into the Streets and places paſſable as aforeſayd, and to be ſounded in every Court, Alley, or place into which the ſayd Carts cannot paſſe, and ſuch Carts to abide and ſtay at the entrance into ſuch Court. Alley, or place, or ſome other convenient place neer thereabouts, whileſt
+<pb n="13" facs="tcp:168339:6"/>
+               <!-- PDF PAGE 52 -->the Inhabitants may bring, or cauſe to be brought their reſpective Duſt, Dirt, Filth and Soyle to the reſpective Carts ſo ſtaying as aforeſaid. And that the ſayd <hi>Iohn Lanyon</hi> or his Aſſignes during the terme aforeſaid ſhall from time to time, and at all meet and convenient times in the day time have the uſe of all ſuch publique Wharfs for unloading of any of the ſayd Carts into Lighters, Barges, or other Veſſels, and for ſtaying the ſame Ligh<g ref="char:EOLhyphen"/>ters, Barges, or other Veſſels as are in the diſpoſe of this Court, or of the particular Wards of this City, he and they paying for the ſame ſuch rates and prices as ſhall be adjudged reaſonable and fit by indifferent perſons for that end to be choſen and appointed: And that ſuch part of the ſaid Aſhes, Duſt, Dirt, and Soile as ſhall not be ſo tranſported, or carried away by water, the ſaid <hi>Iohn Lanyon</hi> and his Aſſignes ſhall from time to time, and at all times during the ſaid term of twenty and one years, carry, lay up, and diſpoſe of at ſuch fit diſtances to be a quarter of a mile at the leaſt from the ſaid Citie and the continued buildings of the Suburbs, or in ſuch manner as no ſtench, noyſom, or unwholſom ſmell or other nuſance thence ariſe unto this City, Liberties, or Suburbs thereof. And for the better encouragement, enablement, ſatisfaction and recompence of the ſayd <hi>Iohn Lanyon</hi> and his Aſſignes in his and their execution, proſecution, and performance of the aforeſaid office and place of Generall Surveyor, and the proviſion and charges to be by him made and ſuſtain<g ref="char:EOLhyphen"/>ed for, and in the cleanſing and keeping clean of the ſaid Streets, Lanes, Alleys and places aforeſaid, within this City and Liberties thereof, and taking and carrying away the ſaid Soyle during the ſaid terme of twenty and one years, according to the true intent and meaning hereof.</p>
+            <p>
+               <pb n="14" facs="tcp:168339:7"/>
+               <!-- PDF PAGE 53 -->
+               <hi>Be it further Enacted,</hi> That all and every the ſaid Aſſeſments, Rates and Taxes ſo to be aſſeſſed, rated and taxed as aforeſaid, ſhall quarterly, or within twenty eight dayes next after every of the four uſuall Quarter dayes in the year, yearly during the ſaid terme of twenty and one years, be duely and truly ſatisfied and payd unto the ſaid <hi>Iohn Lanyon</hi> or his Aſſignes by the reſpective Scavingers thereof: And alſo that the ſaid <hi>Iohn Lanyon</hi> or his Aſ<g ref="char:EOLhyphen"/>ſignes may have and take one full moyety, or halfe part of all and every the Fines, Paines, and Mulcts that ſhall happen to be impoſed, layd, or ſet upon any perſon or perſons for breach or tranſgreſſion of any Law, Order, Matter or Thing herein contained, the charges and ex<g ref="char:EOLhyphen"/>pences in and about proſecution, being firſt deducted and allowed to the Proſecutors: And likewiſe that all preſent contributions and allowances made, given and paid for, and towards the cleanſing of the reſpective Market places, Grates, Wharfes and Keys within this City and the Li<g ref="char:EOLhyphen"/>berties thereof, ſhall duly and orderly during the ſaid term of twenty and one yeares be allowed, given, and paid unto the ſaid <hi>Iohn Lanyon</hi> and his Aſſignes.</p>
+            <p>
+               <hi>Provided</hi> always, and it is <hi>Enacted,</hi> That the ſaid <hi>Iohn Lanyon</hi> ſhall not at any time alienate and aſſigne the premiſſes or any part thereof without licence of this Court under the Common Seale of the ſayd City firſt had and obtained. And if in caſe the ſaid work (as to the part of the ſaid <hi>Iohn Lanyon</hi> and his Aſſignes) ſhall not be well and ſufficiently done and carryed on: And the Common Councell of this City ſhall give notice thereof to the ſayd <hi>John Lanyon</hi> or his Aſſigns by writing. Then if he or they ſhall not from time to time, and at all
+<pb n="15" facs="tcp:168339:7"/>
+               <!-- PDF PAGE 53 -->times during the ſaid terme of twenty and one years with<g ref="char:EOLhyphen"/>in ſix weeks after ſuch notice, amend and rectifie ſuch de<g ref="char:EOLhyphen"/>faults, Then the power and authority hereby granted, and every clauſe, article and thing in this Act contained, may by Act of Common Councell be declared null and void; And the ſame after ſuch Declaration ſhall be and become forthwith null and void to all intents and purpoſes, any thing to the contrary notwithſtanding.</p>
+            <p>And for the purpoſes aforeſaid, <hi>be it Enacted,</hi> That Indentures ſhall be made between the Mayor, and Com<g ref="char:EOLhyphen"/>munalty and Citizens of this City of LONDON of the one part, and the ſayd <hi>Iohn Lanyon</hi> of the other part, under the Common Seal of this City for the confirmati<g ref="char:EOLhyphen"/>on of the ſeverall Grants and allowances hereby made unto the ſaid <hi>Iohn Lanyon,</hi> and his Aſſignes during the ſaid tearm of twenty and one yeares under Covenants on the ſaid <hi>Iohn Lanyon's</hi> part, to do, perform, and execute all every the matters and things herein contained to be by him done, performed and executed concerning the clean<g ref="char:EOLhyphen"/>ſing of the Streets and places aforeſaid according to the true intent and meaning hereof: With a Proviſo to be voyd upon the Conditions aforeſaid in this Act before mentioned.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
